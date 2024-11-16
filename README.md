@@ -1,8 +1,30 @@
 # Lumina Edu
 
-**THIS PROJECT ISN'T LIVE YET FOR DEMONSTRATION!**
-
 Lumina Edu is a robust educatinonal institute management system designed to streamline educational administration, enhance communication, and provide analytical insights. The system handles a wide range of school operations, from user management to class schedules, grade management, financial transactions, and real-time data visualization.
+
+### Login Information
+
+#### Admin:
+
+- ID: `0-0001`
+- Password: `123456`
+
+#### Teacher:
+
+- ID: `4-0001`
+- Password: `123456`
+
+#### Student:
+
+- ID: `8-0002`
+- Password: `123456`
+
+#### Parent:
+
+- ID: `9-0001`
+- Password: `123456`
+
+
 
 ## Features
 
