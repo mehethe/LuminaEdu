@@ -2,6 +2,9 @@
 
 Lumina Edu is a robust educatinonal institute management system designed to streamline educational administration, enhance communication, and provide analytical insights. The system handles a wide range of school operations, from user management to class schedules, grade management, financial transactions, and real-time data visualization.
 
+**<span style="color: red;">Important Note:</span>**  
+<span style="color: red;">If you are unable to sign in due to a database or Prisma error, it may be because the free database hosting on Supabase has been temporarily paused due to inactivity. Please email me regarding the issue, and I will promptly restore the database availability.</span>
+
 ### Login Information
 
 #### Admin:
